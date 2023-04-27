@@ -1,0 +1,4 @@
+goal:
+you are to create a static website on a new S3 bucket using the file you have at your disposal.
+The bucket name needs to be written in this format: <yourname>-saidatech-static
+then send me the link to your static website.
